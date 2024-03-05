@@ -1,4 +1,5 @@
 You can follow the steps here: https://medium.com/@aalc928/from-data-to-api-build-a-machine-learning-model-for-ads-sales-prediction-and-deploy-it-on-aws-58276377315a
+https://medium.com/@aalc928/from-data-to-api-build-a-machine-learning-model-for-ads-sales-prediction-and-deploy-it-on-aws-b398cc719446
 
 We delved into the classic advertising problem, where the intricate dance between TV, newspaper, and radio ad spending unfolds its impact on sales figures. Armed with a comprehensive dataset, we embarked on a comparative analysis of several prominent models:
 
